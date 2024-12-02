@@ -22,11 +22,30 @@
 
 ---
 
-## 📊 **GitHub Stats:**
+## 🌟 **Minhas Inspirações:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=costa0077&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=costa0077&layout=compact&theme=radical)
+✨ Amo resolver problemas complexos usando tecnologia.  
+✨ Me inspiro em grandes projetos de código aberto, como [React](https://reactjs.org) e [Laravel](https://laravel.com).  
+✨ Estou sempre em busca de criar soluções que tornem a tecnologia acessível e útil para todos.  
 
 ---
 
-✨ Obrigado(a) por visitar o meu perfil! Fique à vontade para explorar meus repositórios e colaborar em projetos. ✨
+## 🚀 **Áreas de Interesse:**
+
+- Desenvolvimento web e APIs.
+- Automação de processos e DevOps.
+- Machine Learning e ciência de dados.
+- Desenvolvimento mobile (Kotlin e Swift).  
+
+---
+
+## 🎯 **Roadmap de Aprendizado:**
+
+✔️ Aprofundar meus conhecimentos em Node.js e TypeScript.  
+✔️ Estudar melhores práticas em arquiteturas serverless.  
+✔️ Contribuir para projetos open-source que impactem comunidades.  
+✔️ Desenvolver aplicações completas com React Native.  
+
+---
+
+✨ Obrigado(a) por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato para colaborar! 🚀
