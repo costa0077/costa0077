@@ -22,30 +22,28 @@
 
 ---
 
-## 🌟 **Minhas Inspirações:**
+## 🚀 **Meu Foco Atual:**
 
-✨ Amo resolver problemas complexos usando tecnologia.  
-✨ Me inspiro em grandes projetos de código aberto, como [React](https://reactjs.org) e [Laravel](https://laravel.com).  
-✨ Estou sempre em busca de criar soluções que tornem a tecnologia acessível e útil para todos.  
+Estou dedicado a explorar e trabalhar em **automação** e **área de dados**, com um forte interesse em:
 
----
-
-## 🚀 **Áreas de Interesse:**
-
-- Desenvolvimento web e APIs.
-- Automação de processos e DevOps.
-- Machine Learning e ciência de dados.
-- Desenvolvimento mobile (Kotlin e Swift).  
+- Criação e integração de **automações inteligentes** para otimizar processos.
+- Desenvolvimento de projetos voltados para **inteligência artificial (IA)**.
+- Soluções para coleta, organização e análise de **dados estruturados e não estruturados**.
+- Integração de pipelines de dados com foco em eficiência e escalabilidade.
 
 ---
 
-## 🎯 **Roadmap de Aprendizado:**
+## 🌟 **Áreas de Interesse:**
 
-✔️ Aprofundar meus conhecimentos em Node.js e TypeScript.  
-✔️ Estudar melhores práticas em arquiteturas serverless.  
-✔️ Contribuir para projetos open-source que impactem comunidades.  
-✔️ Desenvolver aplicações completas com React Native.  
+- **Automação de Processos**: Integração de ferramentas e criação de scripts para simplificar fluxos de trabalho.
+- **Inteligência Artificial**: Exploração de modelos de machine learning para resolver problemas reais.
+- **Análise de Dados**: Transformar dados em insights valiosos por meio de visualizações e relatórios automatizados.
+- **DevOps e Automação em Nuvem**: Uso de ferramentas como Docker, AWS e CI/CD para melhorar entregas.
 
 ---
 
-✨ Obrigado(a) por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato para colaborar! 🚀
+## 📫 **Entre em Contato**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilfelipecosta@gmail.com)
+
+✨ Obrigado(a) por visitar o meu perfil! Estou sempre aberto a novas ideias e oportunidades para inovar juntos. 🚀
