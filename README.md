@@ -24,8 +24,8 @@
 
 ## 📊 **GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=costa0077&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=costa0077&layout=compact&theme=radical)
 
 ---
 
